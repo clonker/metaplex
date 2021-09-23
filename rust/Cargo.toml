@@ -1,6 +1,7 @@
 [workspace]
 members = [
-  "nft-candy-machine/",
+  "nft-candy-machine",
+  "nft-orcs",
   "auction/program",
   "metaplex/program",
   "token-vault/program",

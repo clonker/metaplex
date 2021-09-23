@@ -1765,6 +1765,17 @@ dependencies = [
 ]
 
 [[package]]
+name = "nft-orcs"
+version = "0.1.0"
+dependencies = [
+ "anchor-lang",
+ "arrayref",
+ "rand 0.8.4",
+ "spl-token",
+ "spl-token-metadata",
+]
+
+[[package]]
 name = "nix"
 version = "0.19.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
